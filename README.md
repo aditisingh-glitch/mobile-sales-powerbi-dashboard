@@ -49,3 +49,9 @@ The dashboard provides analysis of:
 - `Mobile_Sales_Dashboard.pbix` – Power BI dashboard
 - `Dashboard_Screenshot.png` – Dashboard preview
 - `README.md` – Project documentation
+
+
+
+## 📷 Dashboard Preview
+
+![Mobile Sales Dashboard](Screenshot%202026-08-23%20221529.png)
